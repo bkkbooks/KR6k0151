@@ -1,0 +1,700 @@
+canonical_identifier: bkk:krp/KR6k0151/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0151/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 重治毗尼事義集要
+  identifiers:
+    krp: KR6k0151
+    cbeta: X40n0719
+    cbeta_old_id: X40n0719
+    authorityid: CA0002392
+    json_key: X0719
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X40/X40n0719.xml
+    old_id: X40n0719
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0151_000-X.yaml, hash: 'sha256:807b07f2a2cf96ef42c0b58fa067a63ea95e8ca2de5bb2448fa5f49568bbe10c'}
+  - {seq: 1, filename: KR6k0151_001-X.yaml, hash: 'sha256:6247e224402081d7b54ea4dffbd0d3db8617613810710183f3d7e40d7b8630a5'}
+  - {seq: 2, filename: KR6k0151_002-X.yaml, hash: 'sha256:a4beaf0f18e1d82433eb4a3e2dbe9bd550710783eedf836f3dbb5afd435af3a5'}
+  - {seq: 3, filename: KR6k0151_003-X.yaml, hash: 'sha256:4c38971da78faea9cb803925a82d560e9f8b767a65b916b7d2147d35337744a7'}
+  - {seq: 4, filename: KR6k0151_004-X.yaml, hash: 'sha256:196cdd6437e8570944346481a745668c42fbf38b0ba31ae575bf69dee7822313'}
+  - {seq: 5, filename: KR6k0151_005-X.yaml, hash: 'sha256:af20b7b6fa25624bcbac73cad1d8b5e938ca867881bbbe91f8a4694127595171'}
+  - {seq: 6, filename: KR6k0151_006-X.yaml, hash: 'sha256:0f57177a20245855d163dec86eefdb25b0cc51c0974fdefaf29a307aff29eb8c'}
+  - {seq: 7, filename: KR6k0151_007-X.yaml, hash: 'sha256:4a3473023924d5e1647b6e3f8c1e9eaa9f97a71de4e1ae76d0970f176a958913'}
+  - {seq: 8, filename: KR6k0151_008-X.yaml, hash: 'sha256:ae81b0cc883b3427f9795d9445362b0486a405ea49d9c5dbc5a5797973a2fd7e'}
+  - {seq: 9, filename: KR6k0151_009-X.yaml, hash: 'sha256:216b10dd44398d4da8066a8a68a76c7129ddf17177ce9af3ad617a1be286a47f'}
+  - {seq: 10, filename: KR6k0151_010-X.yaml, hash: 'sha256:88b23c050b82c8c683af15ff523a665033f6f808a77086fc4752adeb17a34d8b'}
+  - {seq: 11, filename: KR6k0151_011-X.yaml, hash: 'sha256:47d9a97fdc4fc459a31ba5d6443e00618cfc25b2c597109a2f5212a6b52aac85'}
+  - {seq: 12, filename: KR6k0151_012-X.yaml, hash: 'sha256:a7754756c4a7fd250fe481f26cb02118b1f58e18163464d1636faec35e207978'}
+  - {seq: 13, filename: KR6k0151_013-X.yaml, hash: 'sha256:65dc65e202dff8530d0deaae6b5587d28bfc7280cdbca49e275f1702ed3d4623'}
+  - {seq: 14, filename: KR6k0151_014-X.yaml, hash: 'sha256:a1b5d60a46a7a9b76a9473aa661913f8802d39c03149b1ec42d003c56999e674'}
+  - {seq: 15, filename: KR6k0151_015-X.yaml, hash: 'sha256:29dc7926f8d135fbe85422c0a53915275c4b45b7245766bda18cb9d69a79350e'}
+  - {seq: 16, filename: KR6k0151_016-X.yaml, hash: 'sha256:22e876d5e8add2ef702901138de46b6583d90e85814348b2f7a85f23dc5f8aeb'}
+  - {seq: 17, filename: KR6k0151_017-X.yaml, hash: 'sha256:57038c4eaa6f89675419323191d64aa9f207accedea8db123e2230cc816c277c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0151_000-X.markers.yaml, hash: 'sha256:abbb0f5a07303c127c6f60e361262c0b74ad92e5e9ef17a030b8d52e5efacee4'}
+  - {seq: 1, role: markers, filename: assets/KR6k0151_001-X.markers.yaml, hash: 'sha256:d0479c1c340a7df0902bb245412676f636fda8d9b6aff04643e0bc60ff4be7ab'}
+  - {seq: 2, role: markers, filename: assets/KR6k0151_002-X.markers.yaml, hash: 'sha256:f64f594ec605238b3f01ee31736badebf37ead20624ad7fff0d6dd1d8d47d326'}
+  - {seq: 3, role: markers, filename: assets/KR6k0151_003-X.markers.yaml, hash: 'sha256:b30dcd9c55bdd62cd9d4373c8a97297d23ceab858aa1173bacd227b4dc2e3474'}
+  - {seq: 4, role: markers, filename: assets/KR6k0151_004-X.markers.yaml, hash: 'sha256:d7145bb6ffbc98f1c0f841bd68216bfc7bb6a6f26b74623085861c162c05123c'}
+  - {seq: 5, role: markers, filename: assets/KR6k0151_005-X.markers.yaml, hash: 'sha256:f66a6df8aac63f1402a1c8ae0669c8d8e31b371b6a3c5d2b552871dcdbbeee10'}
+  - {seq: 6, role: markers, filename: assets/KR6k0151_006-X.markers.yaml, hash: 'sha256:9b58ab114eeb1dbe77eeaf987ce7764d253160011f1f19cf96f4f4607be3d842'}
+  - {seq: 7, role: markers, filename: assets/KR6k0151_007-X.markers.yaml, hash: 'sha256:2f28f0f3ec25d4b415e3d1dd73b74ef855e24558b9104b58b8ab99c8b54d9840'}
+  - {seq: 8, role: markers, filename: assets/KR6k0151_008-X.markers.yaml, hash: 'sha256:396a582857bfd064379778668370418bc837f2837a818e22234c9aa241e7d369'}
+  - {seq: 9, role: markers, filename: assets/KR6k0151_009-X.markers.yaml, hash: 'sha256:414cb713e250992a6a4ff1d1d21f670c97325bdff14ad010c77a6e3465311420'}
+  - {seq: 10, role: markers, filename: assets/KR6k0151_010-X.markers.yaml, hash: 'sha256:531d47273edf299399145cf79556240bb287315a52c57e6fb10d2b2aae753c1e'}
+  - {seq: 11, role: markers, filename: assets/KR6k0151_011-X.markers.yaml, hash: 'sha256:c84de3b4f1cec333c6c836ae25edbbdc5a439368836385527da8b671f54148da'}
+  - {seq: 12, role: markers, filename: assets/KR6k0151_012-X.markers.yaml, hash: 'sha256:664efb5d5a8127d64266ae8919b1303058d6631545427ee88a08c3b3a178ca02'}
+  - {seq: 13, role: markers, filename: assets/KR6k0151_013-X.markers.yaml, hash: 'sha256:65a307956a3b3f70e4d6dd49e00a344cf0d3697a0d97de9b3a88a6d4c3c52b25'}
+  - {seq: 14, role: markers, filename: assets/KR6k0151_014-X.markers.yaml, hash: 'sha256:a699896f543ca9eb155c7ba28f750d5348790c0e189ad0bee783e1485b559213'}
+  - {seq: 15, role: markers, filename: assets/KR6k0151_015-X.markers.yaml, hash: 'sha256:fa86d55f7c230bda9019ae99eaba816940e64353cf57801ac9ab0bfbb87afea6'}
+  - {seq: 16, role: markers, filename: assets/KR6k0151_016-X.markers.yaml, hash: 'sha256:5b4d64aa205681471f41f0d5e4e0dcc527cd65ead134cd3fce26eeac4d7665b6'}
+  - {seq: 17, role: markers, filename: assets/KR6k0151_017-X.markers.yaml, hash: 'sha256:55e9016156fe8cffdb89dc125189538a15f7b5285b219b4cf0ea288439ec08d7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0151_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 719-A 重治毗尼事義集要敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0151_X_000-mulu-2
+    span:
+    - front
+    - 349
+    - 349
+  label: No. 719-B 重治毗尼事義集要序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0151_X_000-mulu-3
+    span:
+    - front
+    - 800
+    - 800
+  label: No. 719-C 原序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0151_X_000-mulu-4
+    span:
+    - front
+    - 1526
+    - 1526
+  label: No. 719-D 原䟦
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0151_X_000-mulu-5
+    span:
+    - front
+    - 1970
+    - 1970
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0151_X_000-mulu-6
+    span:
+    - front
+    - 2401
+    - 2401
+  label: No. 719-E 總問辯
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0151_X_000-mulu-7
+    span:
+    - front
+    - 4523
+    - 4523
+  label: 凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0151_X_000-mulu-8
+    span:
+    - front
+    - 5014
+    - 5014
+  label: No. 719-F 提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0151_X_000-mulu-9
+    span:
+    - front
+    - 7691
+    - 7691
+  label: No. 719-G 律藏總目
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0151_X_000-mulu-10
+    span:
+    - front
+    - 8839
+    - 8839
+  label: 四分律藏品目
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0151_X_000-mulu-11
+    span:
+    - front
+    - 8974
+    - 8974
+  label: 旁引諸經論目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0151_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 9964
+  label: 重治毗尼事義集要卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0151_X_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 四分戒本
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0151_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 9674
+  label: 重治毗尼事義集要卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0151_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 9988
+  label: 重治毗尼事義集要卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0151_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 10360
+  label: 重治毗尼事義集要卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0151_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 9614
+  label: 重治毗尼事義集要卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0151_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 9644
+  label: 重治毗尼事義集要卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0151_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 10353
+  label: 重治毗尼事義集要卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0151_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 9734
+  label: 重治毗尼事義集要卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0151_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 10823
+  label: 重治毗尼事義集要卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0151_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 10562
+  label: 重治毗尼事義集要卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0151_X_011-juan-start
+    span:
+    - body
+    - 0
+    - 10777
+  label: 重治毗尼事義集要卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0151_X_011-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 總辨羯磨法
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0151_X_011-mulu-2
+    span:
+    - body
+    - 1489
+    - 1489
+  label: 結界法
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0151_X_011-mulu-3
+    span:
+    - body
+    - 3277
+    - 3277
+  label: 授戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0151_X_012-juan-start
+    span:
+    - body
+    - 0
+    - 10558
+  label: 重治毗尼事義集要卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0151_X_012-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 依止法
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0151_X_012-mulu-2
+    span:
+    - body
+    - 1221
+    - 1221
+  label: 師法
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0151_X_012-mulu-3
+    span:
+    - body
+    - 3138
+    - 3138
+  label: 弟子事師法
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0151_X_012-mulu-4
+    span:
+    - body
+    - 4791
+    - 4791
+  label: 上座法
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0151_X_012-mulu-5
+    span:
+    - body
+    - 5716
+    - 5716
+  label: 同學法
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0151_X_012-mulu-6
+    span:
+    - body
+    - 6034
+    - 6034
+  label: 禮敬法
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0151_X_012-mulu-7
+    span:
+    - body
+    - 6300
+    - 6300
+  label: 孝父母法
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0151_X_012-mulu-8
+    span:
+    - body
+    - 6499
+    - 6499
+  label: 安居法
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0151_X_012-mulu-9
+    span:
+    - body
+    - 7745
+    - 7745
+  label: 自恣法
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0151_X_012-mulu-10
+    span:
+    - body
+    - 9283
+    - 9283
+  label: 迦絺那衣法
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0151_X_013-juan-start
+    span:
+    - body
+    - 0
+    - 9327
+  label: 重治毗尼事義集要卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0151_X_013-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 治罪法
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0151_X_014-juan-start
+    span:
+    - body
+    - 0
+    - 10136
+  label: 重治毗尼事義集要卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0151_X_014-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 衣法
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0151_X_014-mulu-2
+    span:
+    - body
+    - 2315
+    - 2315
+  label: 鉢法
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0151_X_014-mulu-3
+    span:
+    - body
+    - 2505
+    - 2505
+  label: 食法藥法
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0151_X_014-mulu-4
+    span:
+    - body
+    - 3723
+    - 3723
+  label: 受食法
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0151_X_014-mulu-5
+    span:
+    - body
+    - 4358
+    - 4358
+  label: 看病法
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0151_X_014-mulu-6
+    span:
+    - body
+    - 6059
+    - 6059
+  label: 房舍
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0151_X_014-mulu-7
+    span:
+    - body
+    - 6872
+    - 6872
+  label: 臥具法
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0151_X_014-mulu-8
+    span:
+    - body
+    - 7047
+    - 7047
+  label: 器物法
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0151_X_014-mulu-9
+    span:
+    - body
+    - 7546
+    - 7546
+  label: 杖法
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0151_X_014-mulu-10
+    span:
+    - body
+    - 7760
+    - 7760
+  label: 叢林法
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0151_X_015-juan-start
+    span:
+    - body
+    - 0
+    - 9538
+  label: 重治毗尼事義集要卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0151_X_015-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 阿蘭若法
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0151_X_015-mulu-2
+    span:
+    - body
+    - 1457
+    - 1457
+  label: 大眾會法
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0151_X_015-mulu-3
+    span:
+    - body
+    - 1661
+    - 1661
+  label: 分物法
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0151_X_015-mulu-4
+    span:
+    - body
+    - 4063
+    - 4063
+  label: 說法法
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0151_X_015-mulu-5
+    span:
+    - body
+    - 5316
+    - 5316
+  label: 讀誦法
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0151_X_015-mulu-6
+    span:
+    - body
+    - 6104
+    - 6104
+  label: 坐禪法
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0151_X_015-mulu-7
+    span:
+    - body
+    - 6667
+    - 6667
+  label: 雜法
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0151_X_015-mulu-8
+    span:
+    - body
+    - 7982
+    - 7982
+  label: 佛說犯戒罪輕重經
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0151_X_015-mulu-9
+    span:
+    - body
+    - 8514
+    - 8514
+  label: 戒相攝頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0151_X_016-juan-start
+    span:
+    - body
+    - 0
+    - 9386
+  label: 重治毗尼事義集要卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0151_X_016-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 比丘尼戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6k0151_X_017-juan-start
+    span:
+    - body
+    - 0
+    - 9558
+  label: 重治毗尼事義集要卷第十七
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6k0151_X_017-mulu-1
+    span:
+    - body
+    - 9107
+    - 9107
+  label: No. 719-H 䟦語
+  type: mulu
+  level: 1
+hash: sha256:db906967b7bd12bf48b9e721ff1da8b15415955043797676e15d4cff556d718c
