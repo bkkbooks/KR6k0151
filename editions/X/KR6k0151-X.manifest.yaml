@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0151_000-X.yaml, hash: 'sha256:807b07f2a2cf96ef42c0b58fa067a63ea95e8ca2de5bb2448fa5f49568bbe10c'}
+  - {seq: 0, filename: KR6k0151_000-X.yaml, hash: 'sha256:ce7d2b52bc1f9b584ae61ba795cbec85c24b83dd4dde5b4554e36e0fce0989a1'}
   - {seq: 1, filename: KR6k0151_001-X.yaml, hash: 'sha256:6247e224402081d7b54ea4dffbd0d3db8617613810710183f3d7e40d7b8630a5'}
   - {seq: 2, filename: KR6k0151_002-X.yaml, hash: 'sha256:a4beaf0f18e1d82433eb4a3e2dbe9bd550710783eedf836f3dbb5afd435af3a5'}
   - {seq: 3, filename: KR6k0151_003-X.yaml, hash: 'sha256:4c38971da78faea9cb803925a82d560e9f8b767a65b916b7d2147d35337744a7'}
@@ -38,7 +38,7 @@ assets:
   - {seq: 16, filename: KR6k0151_016-X.yaml, hash: 'sha256:22e876d5e8add2ef702901138de46b6583d90e85814348b2f7a85f23dc5f8aeb'}
   - {seq: 17, filename: KR6k0151_017-X.yaml, hash: 'sha256:57038c4eaa6f89675419323191d64aa9f207accedea8db123e2230cc816c277c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0151_000-X.markers.yaml, hash: 'sha256:abbb0f5a07303c127c6f60e361262c0b74ad92e5e9ef17a030b8d52e5efacee4'}
+  - {seq: 0, role: markers, filename: assets/KR6k0151_000-X.markers.yaml, hash: 'sha256:8037c1fc36150f914f481397162f62f93e438475ff75a0f3d974df4df18927bd'}
   - {seq: 1, role: markers, filename: assets/KR6k0151_001-X.markers.yaml, hash: 'sha256:d0479c1c340a7df0902bb245412676f636fda8d9b6aff04643e0bc60ff4be7ab'}
   - {seq: 2, role: markers, filename: assets/KR6k0151_002-X.markers.yaml, hash: 'sha256:f64f594ec605238b3f01ee31736badebf37ead20624ad7fff0d6dd1d8d47d326'}
   - {seq: 3, role: markers, filename: assets/KR6k0151_003-X.markers.yaml, hash: 'sha256:b30dcd9c55bdd62cd9d4373c8a97297d23ceab858aa1173bacd227b4dc2e3474'}
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0151_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 719-A 重治毗尼事義集要敘
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0151_X_000-mulu-2
     span:
-    - front
+    - body
     - 349
     - 349
   label: No. 719-B 重治毗尼事義集要序
@@ -81,7 +81,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0151_X_000-mulu-3
     span:
-    - front
+    - body
     - 800
     - 800
   label: No. 719-C 原序
@@ -91,7 +91,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0151_X_000-mulu-4
     span:
-    - front
+    - body
     - 1526
     - 1526
   label: No. 719-D 原䟦
@@ -101,7 +101,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0151_X_000-mulu-5
     span:
-    - front
+    - body
     - 1970
     - 1970
   label: 目次
@@ -111,7 +111,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0151_X_000-mulu-6
     span:
-    - front
+    - body
     - 2401
     - 2401
   label: No. 719-E 總問辯
@@ -121,7 +121,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0151_X_000-mulu-7
     span:
-    - front
+    - body
     - 4523
     - 4523
   label: 凡例
@@ -131,7 +131,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0151_X_000-mulu-8
     span:
-    - front
+    - body
     - 5014
     - 5014
   label: No. 719-F 提綱
@@ -141,7 +141,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0151_X_000-mulu-9
     span:
-    - front
+    - body
     - 7691
     - 7691
   label: No. 719-G 律藏總目
@@ -151,7 +151,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0151_X_000-mulu-10
     span:
-    - front
+    - body
     - 8839
     - 8839
   label: 四分律藏品目
@@ -161,7 +161,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0151_X_000-mulu-11
     span:
-    - front
+    - body
     - 8974
     - 8974
   label: 旁引諸經論目
@@ -697,4 +697,4 @@ table_of_contents:
   label: No. 719-H 䟦語
   type: mulu
   level: 1
-hash: sha256:db906967b7bd12bf48b9e721ff1da8b15415955043797676e15d4cff556d718c
+hash: sha256:cf9fbbab51a51f78660f7a572269b8ec16498a6530178744c5fbfacb75debcd4
